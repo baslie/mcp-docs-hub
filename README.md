@@ -7,8 +7,8 @@
 | Сервер | Описание | Документация |
 |--------|----------|--------------|
 | [jivo-docs-mcp](./jivo-docs-mcp/) | Документация Jivo API — виджет чата, webhooks, Chat API, Bot API | 6 файлов |
-| [salutebot-docs-mcp](./salutebot-docs-mcp/) | Документация SaluteBot — платформа для создания чат-ботов | 114 файлов |
-| [sber-code-docs-mcp](./sber-code-docs-mcp/) | Документация SberSalute Code — SmartApp, JS API, NLP | 114+ файлов |
+| [salutebot-docs-mcp](./salutebot-docs-mcp/) | Документация SaluteBot — платформа для создания чат-ботов | 147 файлов |
+| [sber-code-docs-mcp](./sber-code-docs-mcp/) | Документация SberSalute Code — SmartApp, JS API, NLP | 179 файлов |
 
 ## Быстрый старт
 
