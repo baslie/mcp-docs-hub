@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sber-code-docs": {
+      "type": "stdio",
+      "command": "C:\\Users\\Roman\\My MCP Servers\\sber-code-docs-mcp\\venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\Roman\\My MCP Servers\\sber-code-docs-mcp\\server.py"
+      ]
+    }
+  }
+}

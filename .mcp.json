@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "jivo-docs": {
+      "type": "stdio",
+      "command": "C:\\Users\\Roman\\My MCP Servers\\jivo-docs-mcp\\venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\Roman\\My MCP Servers\\jivo-docs-mcp\\server.py"]
+    },
+    "salutebot-docs": {
+      "type": "stdio",
+      "command": "C:\\Users\\Roman\\My MCP Servers\\salutebot-docs-mcp\\venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\Roman\\My MCP Servers\\salutebot-docs-mcp\\server.py"]
+    },
+    "sber-code-docs": {
+      "type": "stdio",
+      "command": "C:\\Users\\Roman\\My MCP Servers\\sber-code-docs-mcp\\venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\Roman\\My MCP Servers\\sber-code-docs-mcp\\server.py"]
+    }
+  }
+}

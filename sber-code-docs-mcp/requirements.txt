@@ -1,0 +1,7 @@
+mcp
+llama-index-core
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+sentence-transformers
+faiss-cpu
